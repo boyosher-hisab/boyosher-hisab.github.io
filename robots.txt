@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boyosher-hisab.github.io/sitemap.xml
